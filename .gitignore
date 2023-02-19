@@ -1,0 +1,4 @@
+# generate de Visual Studio 
+.vs
+bin
+obj
