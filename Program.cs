@@ -35,9 +35,15 @@
         //}
         #endregion
 
+        struct Dog
+        {
+            int DateOfBirth;
+            float Height;
+            string Name;
+        }
         static int Main()
         {
-            
+
             return 0;
         }
 
